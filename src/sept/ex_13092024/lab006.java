@@ -9,6 +9,12 @@ public class lab006 {
         //char back_space = '\b';
         //char car_r = '\r';
 		
+		//System.out.println("Pramod"+ new_line + "Dutta");
+        //System.out.println("Pramod"+ '\n' + "Dutta"); same as upper line
+       // System.out.println("Pramod"+ tab_line + "Dutta");
+       // System.out.println("Pramod"+ back_space + "Dutta");
+       // System.out.println("Pramod"+ car_r  + "Dutta");
+		
 //constant
         //constants are variables whose value can not be changed once they are assigned.
         // final - final dataType CONSTANT_Name = value;
