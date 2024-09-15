@@ -8,26 +8,26 @@ public class lab009_task2 {
 		double b = 10;
 		Print - a+b, a-b, ab, a/b, a%b all the outputs.*/ 
 		//variable data 
-		int a = 25;
-		int b = 16;
+		double a = 34;
+		double b = 10;
 		
 		//operators
-		int add = a + b ;
-		int sub = a - b ;
-		int multi = a * b ;
-		int div = a / b ;
-		int reminder = a % b ; 
+		double  add = a + b ;
+		double sub = a - b ;
+		double multi = a * b ;
+		double div = a / b ;
+		double reminder = a % b ; 
 		
 		//print variable 
-		System.out.printf("%d + %d = %d ", a , b , add);
+		System.out.printf("%f + %f = %f ", a , b , add);
 		System.out.println();
-		System.out.printf("%d - %d = %d ", a , b , sub);
+		System.out.printf("%f - %f = %f ", a , b , sub);
 		System.out.println();
-		System.out.printf("%d x %d = %d ", a , b , multi);
+		System.out.printf("%f x %f = %f ", a , b , multi);
 		System.out.println();
-		System.out.printf("%d / %d = %d ", a , b , div);
+		System.out.printf("%f / %f = %f ", a , b , div);
 		System.out.println();
-		System.out.printf("%d modulus  %d = %d ", a , b , reminder);
+		System.out.printf("%f mod %f = %f ", a , b , reminder);
 		
 		
 		
