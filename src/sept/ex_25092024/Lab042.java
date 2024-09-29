@@ -20,6 +20,8 @@ public class Lab042 {
 //	            System.out.println("Hello");
 //	        }
 
+	
+	
 	}
 
 }
